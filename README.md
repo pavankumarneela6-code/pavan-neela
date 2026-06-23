@@ -30,7 +30,7 @@ A passionate Computer Engineering student from India.
 ## 📫 How to Reach Me
 
 - 📧 Email: pavankumarneela6@gmail.com
-- 🌐 Portfolio: Coming Soon 🚀
+- 🌐 Portfolio:https://pavankumarneela6-code.github.io/portfolio/
 - 🐙 GitHub: https://github.com/pavankumarneela6-code
 
 ---
