@@ -71,9 +71,9 @@ A responsive Netflix-inspired streaming platform UI built using HTML and CSS fea
 **Tech Stack:**  
 HTML5, CSS3, Flexbox, Responsive Design
 
-🔗 GitHub Link: Add Repository Link
+🔗 GitHub Link: https://github.com/pavankumarneela6-code/cinestream
 
-🌐 Live Demo: Add Live Demo Link
+🌐 Live Demo: https://pavankumarneela6-code.github.io/cinestream
 
 ---
 
@@ -85,9 +85,9 @@ A user-friendly library website for managing books, displaying book information,
 **Tech Stack:**  
 HTML5, CSS3, JavaScript
 
-🔗 GitHub Link: Add Repository Link
+🔗 GitHub Link: Coming soon
 
-🌐 Live Demo: Add Live Demo Link
+🌐 Live Demo: coming soon
 
 ---
 
@@ -99,9 +99,9 @@ A modern and responsive restaurant website showcasing menu items, services, cont
 **Tech Stack:**  
 HTML5, CSS3, JavaScript
 
-🔗 GitHub Link: Add Repository Link
+🔗 GitHub Link: https://github.com/pavankumarneela6-code/Royal-Restaurant
 
-🌐 Live Demo: Add Live Demo Link
+🌐 Live Demo: https://pavankumarneela6-code.github.io/Royal-Restaurant/
 
 ---
 
@@ -113,9 +113,9 @@ A college fest website designed to showcase event details, schedules, registrati
 **Tech Stack:**  
 HTML5, CSS3, JavaScript
 
-🔗 GitHub Link: Add Repository Link
+🔗 GitHub Link: https://github.com/pavankumarneela6-code/College-Fest-Website
 
-🌐 Live Demo: Add Live Demo Link
+🌐 Live Demo: https://pavankumarneela6-code.github.io/College-Fest-Website/
 
 ---
 
