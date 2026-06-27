@@ -119,6 +119,22 @@ HTML5, CSS3, JavaScript
 
 ---
 
+### 🧮 Calculator
+
+**Description:**
+A fully responsive Calculator web application built using HTML, CSS, and JavaScript. It supports basic arithmetic operations including Addition, Subtraction, Multiplication, Division, Percentage, Clear, and Delete. The project features a clean, user-friendly interface with interactive button functionality using JavaScript DOM manipulation.
+
+**Tech Stack:**
+HTML5, CSS3, JavaScript
+
+🔗 **GitHub Link:**
+https://github.com/pavankumarneela6-code/calculator
+
+🌐 **Live Demo:**
+https://pavankumarneela6-code.github.io/calculator/
+
+---
+
 ## 📚 Current Learning
 
 - HTML5
