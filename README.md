@@ -134,6 +134,21 @@ https://github.com/pavankumarneela6-code/calculator
 https://pavankumarneela6-code.github.io/calculator/
 
 ---
+### ⏱️ Stopwatch
+
+**Description:**  
+A modern and responsive Stopwatch web application built using HTML, CSS, and JavaScript. It provides precise time tracking with Hours, Minutes, Seconds, and Milliseconds. The application includes Start, Stop, and Reset functionalities with smooth timer updates using JavaScript's `setInterval()` and `clearInterval()`. Designed with a premium glassmorphism UI, glowing neon effects, and responsive layout for an attractive user experience.
+
+**Tech Stack:**  
+HTML5, CSS3, JavaScript
+
+🔗 **GitHub Link:**  
+https://github.com/pavankumarneela6-code/StopWatch
+
+🌐 **Live Demo:**  
+https://pavankumarneela6-code.github.io/StopWatch/
+
+---
 
 ## 📚 Current Learning
 
